@@ -1,0 +1,494 @@
+[
+  {
+    "name": "Aerostar",
+    "value": 1178
+  },
+  {
+    "name": "Aspire",
+    "value": 1179
+  },
+  {
+    "name": "B-Max",
+    "value": 40406
+  },
+  {
+    "name": "Bronco",
+    "value": 2776
+  },
+  {
+    "name": "Bronco II",
+    "value": 63563
+  },
+  {
+    "name": "Bronco Sport",
+    "value": 63432
+  },
+  {
+    "name": "C-Max",
+    "value": 2036
+  },
+  {
+    "name": "Capri",
+    "value": 234
+  },
+  {
+    "name": "Capri Barchetta",
+    "value": 63566
+  },
+  {
+    "name": "Consul",
+    "value": 1167
+  },
+  {
+    "name": "Consul Capri",
+    "value": 63565
+  },
+  {
+    "name": "Contour",
+    "value": 1180
+  },
+  {
+    "name": "Corsair",
+    "value": 3133
+  },
+  {
+    "name": "Cortina",
+    "value": 235
+  },
+  {
+    "name": "Cougar",
+    "value": 236
+  },
+  {
+    "name": "Courier",
+    "value": 1679
+  },
+  {
+    "name": "Crown Victoria",
+    "value": 1181
+  },
+  {
+    "name": "E-150",
+    "value": 3134
+  },
+  {
+    "name": "E-250",
+    "value": 3135
+  },
+  {
+    "name": "E-350",
+    "value": 3244
+  },
+  {
+    "name": "E-450",
+    "value": 3110
+  },
+  {
+    "name": "E-series",
+    "value": 30783
+  },
+  {
+    "name": "Econoline",
+    "value": 1182
+  },
+  {
+    "name": "Econovan",
+    "value": 1168
+  },
+  {
+    "name": "EcoSport",
+    "value": 45099
+  },
+  {
+    "name": "Edge",
+    "value": 1945
+  },
+  {
+    "name": "Eifel",
+    "value": 33418
+  },
+  {
+    "name": "Equator",
+    "value": 63568
+  },
+  {
+    "name": "Escape",
+    "value": 1183
+  },
+  {
+    "name": "Escort",
+    "value": 237
+  },
+  {
+    "name": "Everest",
+    "value": 63567
+  },
+  {
+    "name": "Evos",
+    "value": 63570
+  },
+  {
+    "name": "Excursion",
+    "value": 1169
+  },
+  {
+    "name": "Expedition",
+    "value": 1170
+  },
+  {
+    "name": "Explorer",
+    "value": 238
+  },
+  {
+    "name": "Explorer Sport Trac",
+    "value": 63592
+  },
+  {
+    "name": "F-1",
+    "value": 63569
+  },
+  {
+    "name": "F-100",
+    "value": 63571
+  },
+  {
+    "name": "F-110",
+    "value": 63574
+  },
+  {
+    "name": "F-150",
+    "value": 2103
+  },
+  {
+    "name": "F-2",
+    "value": 63572
+  },
+  {
+    "name": "F-250",
+    "value": 2291
+  },
+  {
+    "name": "F-260",
+    "value": 63582
+  },
+  {
+    "name": "F-3",
+    "value": 63573
+  },
+  {
+    "name": "F-350",
+    "value": 3771
+  },
+  {
+    "name": "F-360",
+    "value": 63581
+  },
+  {
+    "name": "F-450",
+    "value": 3770
+  },
+  {
+    "name": "F-47",
+    "value": 63580
+  },
+  {
+    "name": "F-5",
+    "value": 63576
+  },
+  {
+    "name": "F-550",
+    "value": 35934
+  },
+  {
+    "name": "F-6",
+    "value": 63577
+  },
+  {
+    "name": "F-600",
+    "value": 63584
+  },
+  {
+    "name": "F-650",
+    "value": 33329
+  },
+  {
+    "name": "F-7",
+    "value": 63578
+  },
+  {
+    "name": "F-700",
+    "value": 51332
+  },
+  {
+    "name": "F-7000",
+    "value": 63585
+  },
+  {
+    "name": "F-750",
+    "value": 63583
+  },
+  {
+    "name": "F-8",
+    "value": 63579
+  },
+  {
+    "name": "F-800",
+    "value": 63587
+  },
+  {
+    "name": "Fairlane",
+    "value": 36929
+  },
+  {
+    "name": "Fairmont",
+    "value": 38970
+  },
+  {
+    "name": "Falcon",
+    "value": 40037
+  },
+  {
+    "name": "Festiva",
+    "value": 31824
+  },
+  {
+    "name": "Fiesta",
+    "value": 239
+  },
+  {
+    "name": "Fiesta Active",
+    "value": 61789
+  },
+  {
+    "name": "Figo",
+    "value": 40515
+  },
+  {
+    "name": "Five Hundred",
+    "value": 1186
+  },
+  {
+    "name": "Flex",
+    "value": 3111
+  },
+  {
+    "name": "Focus",
+    "value": 240
+  },
+  {
+    "name": "Focus Active",
+    "value": 61790
+  },
+  {
+    "name": "Focus C-Max",
+    "value": 60475
+  },
+  {
+    "name": "Freestar",
+    "value": 1188
+  },
+  {
+    "name": "Freestyle",
+    "value": 39771
+  },
+  {
+    "name": "Fusion",
+    "value": 241
+  },
+  {
+    "name": "Futura",
+    "value": 53600
+  },
+  {
+    "name": "Galaxie",
+    "value": 33116
+  },
+  {
+    "name": "Galaxy",
+    "value": 242
+  },
+  {
+    "name": "Gran Torino",
+    "value": 37289
+  },
+  {
+    "name": "Granada",
+    "value": 243
+  },
+  {
+    "name": "Grand C-Max",
+    "value": 33614
+  },
+  {
+    "name": "GT",
+    "value": 1189
+  },
+  {
+    "name": "KA",
+    "value": 244
+  },
+  {
+    "name": "Ka+ Active",
+    "value": 3051
+  },
+  {
+    "name": "Kuga",
+    "value": 2874
+  },
+  {
+    "name": "Laser",
+    "value": 30472
+  },
+  {
+    "name": "LTD",
+    "value": 37655
+  },
+  {
+    "name": "Mainline",
+    "value": 60327
+  },
+  {
+    "name": "Maverick",
+    "value": 245
+  },
+  {
+    "name": "Mercury",
+    "value": 28799
+  },
+  {
+    "name": "Model 48",
+    "value": 3132
+  },
+  {
+    "name": "Model A",
+    "value": 36861
+  },
+  {
+    "name": "Model T",
+    "value": 41936
+  },
+  {
+    "name": "Mondeo",
+    "value": 246
+  },
+  {
+    "name": "Mustang",
+    "value": 2047
+  },
+  {
+    "name": "Mustang Mach-E",
+    "value": 60585
+  },
+  {
+    "name": "Orion",
+    "value": 247
+  },
+  {
+    "name": "Otosan P100",
+    "value": 18506
+  },
+  {
+    "name": "Perfect",
+    "value": 3113
+  },
+  {
+    "name": "Probe",
+    "value": 248
+  },
+  {
+    "name": "Puma",
+    "value": 249
+  },
+  {
+    "name": "Ranch Wagon",
+    "value": 34469
+  },
+  {
+    "name": "Ranchero",
+    "value": 1173
+  },
+  {
+    "name": "Ranger",
+    "value": 1171
+  },
+  {
+    "name": "S-Max",
+    "value": 2037
+  },
+  {
+    "name": "Scorpio",
+    "value": 250
+  },
+  {
+    "name": "Sierra",
+    "value": 2970
+  },
+  {
+    "name": "SportKa",
+    "value": 1172
+  },
+  {
+    "name": "StreetKa",
+    "value": 253
+  },
+  {
+    "name": "Taunus",
+    "value": 1174
+  },
+  {
+    "name": "Taurus",
+    "value": 1193
+  },
+  {
+    "name": "Taurus X",
+    "value": 63588
+  },
+  {
+    "name": "Telstar",
+    "value": 30471
+  },
+  {
+    "name": "Tempo",
+    "value": 1175
+  },
+  {
+    "name": "Territory",
+    "value": 62808
+  },
+  {
+    "name": "Think",
+    "value": 254
+  },
+  {
+    "name": "Thunderbird",
+    "value": 1194
+  },
+  {
+    "name": "Torino",
+    "value": 52140
+  },
+  {
+    "name": "Tourneo Connect",
+    "value": 1176
+  },
+  {
+    "name": "Tourneo Courier",
+    "value": 45251
+  },
+  {
+    "name": "Tourneo Custom",
+    "value": 41503
+  },
+  {
+    "name": "Transit Connect",
+    "value": 35397
+  },
+  {
+    "name": "V8",
+    "value": 41753
+  },
+  {
+    "name": "Windstar",
+    "value": 1682
+  }
+]
